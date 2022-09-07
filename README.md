@@ -15,6 +15,6 @@ Esta aplicación puede:
 
 ![](docs/screenshot.png)
 
-- **Siempre y cuando tenga extensión** `.jpg, .jpeg` **y sus metados no estén borrados**
+- **Siempre y cuando tenga extensión** `.jpg o .jpeg` **y sus metadatos no estén borrados**
 
 ![](docs/screenshot-2.png)

@@ -1,20 +1,27 @@
 # DiscoPlace :detective:
 
-Tecnologías utilizadas:
+**Discover the location where a photo was taken**
 
-- PHP 7
+## Technologies :computer:
+
+- PHP 8.3
+- Dockerfile
 - Bootstrap 5
 - Jquery & AJAX
 - Api de Google Maps
 
----
+## Features :sparkles:
 
-Esta aplicación puede:
+Retrieve the location where a photograph was taken
 
-- **Obtener la ubicación donde fue tomada una fotografía**
+![ScreenShot 1](media/screenshot.png)
 
-![](docs/screenshot.png)
+This works as long as the photograph is in `.jpg` or `.jpeg` format and its metadata has not been removed
 
-- **Siempre y cuando tenga extensión** `.jpg o .jpeg` **y sus metadatos no estén borrados**
+![ScreenShot 2](media/screenshot-2.png)
 
-![](docs/screenshot-2.png)
+## License :scroll:
+
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
+
+> This project was developed several years ago and may not be up-to-date with current technologies or best practices.
